@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhaobo/zhbom2/leetcode/TreeNode.h
+vector
+-
+string
+-
+list
+-
+deque
+-
+queue
+-
+iostream
+-
+
+/Users/zhaobo/zhbom2/leetcode/test_174.cpp
+vector
+-
+iostream
+-
+
+/Users/zhaobo/zhbom2/leetcode/test_198.cpp
+vector
+-
+iostream
+-
+
+/Users/zhaobo/zhbom2/leetcode/test_337.cpp
+TreeNode.h
+/Users/zhaobo/zhbom2/leetcode/TreeNode.h
+vector
+-
+
+/Users/zhaobo/zhbom2/leetcode/test_96.cpp
+vector
+-
+iostream
+-
+
